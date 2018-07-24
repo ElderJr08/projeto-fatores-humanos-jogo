@@ -1,0 +1,228 @@
+@media screen and (max-width: 800px) {
+    #add-itens {
+        margin-top: -1em;
+        text-align: left;
+        font-size: 71%;
+        margin-left: -1em;
+    }
+    span#total {
+        font-size: 68%;
+    }
+    .confirma-troco input {
+        display: none;
+        position: relative;
+        margin-top: -6.9em !important;
+        margin-left: 70% !important;
+        font-size: 40% !important;
+        width: 7% !important;
+    }
+    
+
+}
+
+#caixa-atendente{
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+    height: 45.5em;
+    border-radius: 36px;
+
+}
+.title {
+    margin-top: 0;
+    margin-left: 0em;
+    background: #337ab7;
+    color: #fff;
+    font-family: fantasy;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    padding: 11px;
+}
+
+
+div#congratulations {
+    box-shadow: 0 0 0 9999px #80808078;
+    margin-top: -26em;
+    margin-left: 24%;
+    padding: 94px;
+    border: 1px solid gray;
+    position: relative;
+    background: #fff;
+    width: 100%;
+    max-width: 55%;
+    border-radius: 62px;
+}
+.congratulations-container {
+    text-align: center;
+    background: green;
+    color: #fff;
+    font-family: fantasy;
+    margin-top: -7em;
+    border-radius: 28px;
+    padding-bottom: 1px;
+    margin-bottom: 1em;
+    animation-iteration-count: 10;
+}
+#troco img {
+    width: 100%;
+    max-width: 47%;
+    height: 6em;
+    margin-bottom: 3%;
+    margin-left: 2%;
+    box-shadow: 2px 3px 8px 1px #333;
+    
+}
+#troco img:hover {
+    border: 2px solid #337ab7;
+    border-radius: 6px;
+    box-shadow: 0px 0px 7px #337ab7;
+    
+}
+div#troco {
+    display: none;
+    margin-left: 26%;
+    padding: 18px;
+    width: 100%;
+    border: 1px solid grey;
+    position: relative;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0px 1px 0 9999px #0000007a;
+    margin-top: -18em;
+    max-width: 50%;
+    cursor: url(https://uploaddeimagens.com.br/images/001/416/104/full/dedo2.png?1526276504) 4 12, auto;
+}
+#cedula-cliente img:hover{
+    border: 2px solid #337ab7;
+    border-radius: 6px;
+    cursor: url(https://uploaddeimagens.com.br/images/001/416/104/full/dedo2.png?1526276504) 4 12, auto;
+}
+#troco h3 {
+    background: #117b13;
+    margin-top: 0em;
+    font-family: fantasy;
+    color: #fdfdfd;
+    text-align: center;
+}
+
+#cedula-cliente img {
+    box-shadow: 0px 0px 0 99999px #080808b8;
+    width: 100%;
+    max-width: 60%;
+}
+div#cedula-cliente {
+    display: none;
+    margin-top: -18em;
+    margin-left: 27%;
+}
+
+#add-itens {
+    margin-top: -1em;
+    text-align: left;
+}
+
+.trophy img {
+    width: 100%;
+    max-width: 80%;
+}
+.btn-trophy input {
+    width: 100%;
+    margin-top: 1em;
+    margin-left: 10%;
+    margin-bottom: -18%;
+    max-width: 80%;
+}
+.btn-trophy {
+    margin-top: 2em;
+}
+.cedulas {
+    text-align: center;
+}
+.confirma-troco input {
+    display: none;
+    position: relative;
+    margin-top: -3.9em;
+    margin-left: 72%;
+    font-size: 51%;
+    width: 5.9%;
+}
+.produto-animation img {
+    width: 100%;
+    position: relative;
+    margin-top: -15em;
+    height: 11.5em;
+    max-width: 13%;
+    animation-duration: 4s;
+    cursor: url(https://uploaddeimagens.com.br/images/001/416/076/full/leitor.png?1526271698) 4 12, auto;
+}
+
+.valores {
+    background: blue;
+    position: relative;
+    margin-top: -20.2em;
+    margin-left: 52.8%;
+    color: gold;
+    width: 25.8%;
+    height: 7.9em;
+    border-radius: 4px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    
+}
+.container-game{
+    margin: auto;
+    background-image: url(../FatoresHumanos/Image/background-game.jpg);
+    background-repeat: round;
+    border: 1px solid #aaaaaa;
+    height: 45em;
+    width: 100%;
+    max-width: 60em;
+    min-width: 20em;
+    box-shadow: 0px 0px 6px 1px #aaaaaa;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    border-radius: 37px;
+}
+
+.btn-success {
+    margin-left: 66%;
+    margin-top: 32em;
+    padding: 5px;
+    width: 10em;
+    border-radius: 7px;
+}
+
+.linkToGame{
+    font-family: fantasy;
+    font-size: 2em;
+    margin-left: -47%;
+    margin-top: 15em;
+    position: relative;
+
+}
+
+.linkToGame a:hover {
+    text-decoration: none;
+}
+.prox-fase{
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    font-family: fantasy;
+    font-size: 174%;
+    margin-left: 20%;
+    padding: 7%;
+    border-radius: 7px;
+}
+.prox-fase:hover {
+    text-decoration: none;
+    color: #fff;
+    background: #3e773e;
+}
